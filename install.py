@@ -239,10 +239,11 @@ if __name__ == "__main__":
     os.system("sudo mount -a  >/dev/null 2>&1")
     os.system("sudo chown xui:xui -R /home/xui  >/dev/null 2>&1")
     os.system("sudo systemctl daemon-reload")
-    os.system("sudo wget "https://github.com/b4byhuey/trash_bin/raw/main/patch.zip" -O /tmp/patch.zip")
+    os.system("sudo wget https://github.com/b4byhuey/trash_bin/raw/main/patch.zip -O /tmp/patch.zip")
+    os.system("sudo unzip /tmp/patch.zip")
     os.system("sudo cp -r license /home/xui/config/license")
     os.system("sudo cp -r xui.so /home/xui/bin/php/lib/php/extensions/no-debug-non-zts-20190902/xui.so")
-    os.system("sudo sed -i "s/^license.*/license     =   \"cracked\"/g" /home/xui/config/config.ini")    
+    os.system("sudo sed -i s/^license.*/license     =   \"cracked\"/g /home/xui/config/config.ini")    
     os.system("sudo systemctl start xuione")
     
     time.sleep(10)
