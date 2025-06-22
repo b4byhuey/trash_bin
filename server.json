@@ -19,7 +19,7 @@
   "id": "id",
   "tvurl": "https://madplay.site/api/auto?id=${tmdb}&season=${season}&episode=${episode}",
   "movieurl": "https://madplay.site/api/auto?id=${tmdb}",
-  "server": "Auto",
+  "server": "Autoflix",
   "title": "title",
   "url": "url"
   },
@@ -42,7 +42,7 @@
   {
     "tvurl": "https://madplay.site/api/holly?id=${tmdb}&season=${season}&episode=${episode}",
     "movieurl": "https://madplay.site/api/holly?id=${tmdb}",
-    "server": "Holly",
+    "server": "Hollyflix",
     "title": "title",
     "url": "file",
     "id": "id"
