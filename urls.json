@@ -1,8 +1,8 @@
 {
   "wsrvOn": "on",
-  "nunaa": "https://tv.nunadrama.store",
   "extra": "https://extramovies.yoga",
-  "gomov": "https://gomov.top",
+  "mdrives": "https://moviesdrive.design",
   "yts": "https://yts.mx",
-  "twitch": "https://twitchtracker.com"
+  "twitch": "https://twitchtracker.com",
+  "nunaa": "https://tv.nunadrama.store"
 }
