@@ -1,8 +1,8 @@
 {
   "wsrvOn": "on",
-  "yts": "https://yts.mx",
   "mdrives": "https://moviesdrive.design",
+  "yts": "https://yts.mx",
   "extra": "https://extramovies.yoga",
-  "nunaa": "https://tv.nunadrama.store",
-  "anixverse": "https://anixverseone.com"
+  "twitch": "https://twitchtracker.com",
+  "nunaa": "https://tv.nunadrama.store"
 }
