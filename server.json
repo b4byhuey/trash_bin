@@ -1,59 +1,98 @@
 [
   {
-  "tvurl": "https://madplay.site/api/rogflix/series?id=${tmdb}&season=${season}&episode=${episode}&token=alpha",
-  "movieurl": "https://madplay.site/api/rogflix/movies?id=${tmdb}&token=alpha",
-  "title": "title",
-  "server": "Rogflix",
-  "url": "file",
-  "id": "id"
+    "id": "id",
+    "tvurl": "https://madplay.site/api/rogflix/series?id=${tmdb}&season=${season}&episode=${episode}&token=alpha",
+    "movieurl": "https://madplay.site/api/rogflix/movies?id=${tmdb}&token=alpha",
+    "title": "title",
+    "server": "Rogflix",
+    "url": "url"
   },
   {
+    "id": "id",
     "tvurl": "https://madplay.site/api/multiflix?tmdbId=${tmdb}&season=${season}&episode=${episode}&type=series",
     "movieurl": "https://madplay.site/api/multiflix?tmdbId=${tmdb}&type=movie",
     "title": "title",
     "server": "Multiflix",
-    "url": "file",
-    "id": "id"
+    "url": "url"    
   },
   {
-  "id": "id",
-  "tvurl": "https://madplay.site/api/auto?id=${tmdb}&season=${season}&episode=${episode}",
-  "movieurl": "https://madplay.site/api/auto?id=${tmdb}",
-  "server": "Autoflix",
-  "title": "title",
-  "url": "url"
+    "id": "id",
+    "tvurl": "https://madplay.site/api/auto?id=${tmdb}&season=${season}&episode=${episode}",
+    "movieurl": "https://madplay.site/api/auto?id=${tmdb}",
+    "server": "Autoflix",
+    "title": "title",
+    "url": "url"
   },
   {
-  "id": "id",
-  "tvurl": "https://madplay.site/api/playsrc?id=${tmdb}&season=${season}&episode=${episode}",
-  "movieurl": "https://madplay.site/api/playsrc?id=${tmdb}",
-  "server": "PlaySrc",
-  "title": "title",
-  "url": "url"
+    "id": "id",
+    "tvurl": "https://madplay.site/api/playsrc?id=${tmdb}&season=${season}&episode=${episode}",
+    "movieurl": "https://madplay.site/api/playsrc?id=${tmdb}",
+    "server": "PlaySrc",
+    "title": "title",
+    "url": "url"
   }, 
   {
+    "id": "id",
     "tvurl": "https://madplay.site/api/nsapi/1flix?id=${tmdb}&season=${season}&episode=${episode}",
     "movieurl": "https://madplay.site/api/nsapi/1flix?id=${tmdb}",
     "server": "1Flix",
     "title": "title",
-    "url": "file",
-    "id": "id"
+    "url": "url"    
   },
   {
+    "id": "id",
     "tvurl": "https://madplay.site/api/holly?id=${tmdb}&season=${season}&episode=${episode}",
     "movieurl": "https://madplay.site/api/holly?id=${tmdb}",
     "server": "Hollyflix",
     "title": "title",
-    "url": "file",
-    "id": "id"
+    "url": "url"    
   },
-
   {
-  "id": "id",
-  "tvurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/tv/${tmdb}/${season}/${episode}",
-  "movieurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/movie/${tmdb}",
-  "server": "AutoEmbed",
-  "title": "title",
-  "url": "url"
+    "id": "id",
+    "tvurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/tv/${tmdb}/${season}/${episode}",
+    "movieurl": "https://madplay.site/api/nsapi/autoembed?url=https://player.autoembed.cc/embed/movie/${tmdb}",
+    "server": "AutoEmbed",
+    "title": "title",
+    "url": "url"
+  },
+  {
+    "id": "id",
+    "tvurl": "https://madplay.site/api/nsapi/test?url=https://vidfast.pro/tv/${tmdb}/${season}/${episode}",
+    "movieurl": "https://madplay.site/api/nsapi/test?url=https://vidfast.pro/movie/${tmdb}",
+    "server": "StreamFast",
+    "title": "title",
+    "url": "url"
+  },
+  {
+    "id": "id",
+    "tvurl": "https://madplay.site/api/roper?id=${tmdb}&season=${season}&episode=${episode}&type=series",
+    "movieurl": "https://madplay.site/api/roper?id=${tmdb}&type=movie",
+    "server": "Watchflix",
+    "title": "title",
+    "url": "url"
+  },
+  {
+   "id": "id", 
+    "tvurl": "https://letsembed.cc/embed/tv/?id=${tmdb}/${season}/${episode}",
+    "movieurl": "https://letsembed.cc/embed/movie/?id=${tmdb}",
+    "server": "Letsembed",
+    "title": "title",
+    "url": "url"    
+  },
+  {
+    "id": "id",
+    "tvurl": "https://uembed.site/?id=${tmdb}&season=${season}&episode=${episode}",
+    "movieurl": "https://uembed.site/?id=${tmdb}",
+    "server": "Uembed",
+    "title": "title",
+    "url": "url"
+  },
+  {
+    "id": "id",
+    "tvurl": "https://madplay.site/api/nsapi/vid?id=${tmdb}&season=${season}&episode=${episode}",
+    "movieurl": "https://madplay.site/api/nsapi/vid?id=${tmdb}",
+    "server": "VidUrl",
+    "title": "title",
+    "url": "url"
   }
 ]
