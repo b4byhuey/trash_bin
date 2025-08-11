@@ -34,5 +34,6 @@
   "mdrives": "https://moviesdrive.channel",
   "extra": "https://extramovies.mba",
   "vidfast": "https://vidfast.pro",
-  "asiaflixAPI": "https://asiaflix.net"
+  "asiaflix": "https://asiaflix.net",
+  "embedlc": "https://embed.lc"
 }
