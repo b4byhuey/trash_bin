@@ -36,5 +36,5 @@
   "vidfast": "https://vidfast.pro",
   "asiaflix": "https://asiaflix.net",
   "embedlc": "https://embed.lc",
-  "webStreamr": """https%3A%2F%2Fwebstreamr.hayd.uk%2F%7B%22multi%22%3A%22on%22%2C%22en%22%3A%22on%22%2C%22mediaFlowProxyUrl%22%3A%22%22%2C%22mediaFlowProxyPassword%22%3A%22%22%7D"""
+  "webStreamr": "https://webstreamr.hayd.uk/%7B%22multi%22%3A%22on%22%2C%22en%22%3A%22on%22%2C%22mediaFlowProxyUrl%22%3A%22%22%2C%22mediaFlowProxyPassword%22%3A%22%22%7D"
 }
