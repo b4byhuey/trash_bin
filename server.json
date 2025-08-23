@@ -70,5 +70,37 @@
     "server": "VidUrl",
     "title": "title",
     "url": "url"
+  },
+  {
+    "id": "id",
+    "tvurl": "https://madplay.site/api/roper?id=${tmdb}&season=${season}&episode=${episode}&type=series",
+    "movieurl": "https://madplay.site/api/roper?id=${tmdb}&type=movie",
+    "server": "RoperEmbed",
+    "title": "title",
+    "url": "url"
+  },
+  {
+    "id": "id",
+    "tvurl": "https://madplay.site/api/vidz?id=${tmdb}&season=${season}&episode=${episode}&server=1&token=direct",
+    "movieurl": "https://madplay.site/api/vidz?id=${tmdb}&server=1&token=direct",
+    "server": "Vidx-1",
+    "title": "title",
+    "url": "url"
+  },
+  {
+    "id": "id",
+    "tvurl": "https://madplay.site/api/vidz?id=${tmdb}&season=${season}&episode=${episode}&server=2&token=direct",
+    "movieurl": "https://madplay.site/api/vidz?id=${tmdb}&server=2&token=direct",
+    "server": "Vidx-2",
+    "title": "title",
+    "url": "url"
+  },
+  {
+    "id": "id",
+    "tvurl": "https://madplay.site/api/vidz?id=${tmdb}&season=${season}&episode=${episode}&server=3&token=direct",
+    "movieurl": "https://madplay.site/api/vidz?id=${tmdb}&server=3&token=direct",
+    "server": "Vidx-3",
+    "title": "title",
+    "url": "url"
   }
 ]
