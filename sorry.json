@@ -37,6 +37,6 @@
   "asiaflix": "https://asiaflix.net",
   "embedlc": "https://embed.lc",
   "webStreamr": "https://webstreamr.hayd.uk/%7B%22multi%22%3A%22on%22%2C%22en%22%3A%22on%22%2C%22mediaFlowProxyUrl%22%3A%22%22%2C%22mediaFlowProxyPassword%22%3A%22%22%7D",
-  "morph": "https://tele.morphtv.club/api/search?"
+  "morph": "https://tele.morphtv.club/api/search?",
   "nuvio": "https://nuviostreams.hayd.uk"
 }
