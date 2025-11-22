@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 const SOURCE = 'random.json';     // File sumber asli
-const DEST = 'urls.json';         // File hasil acakan
+const DEST = 'snake.json';         // File hasil acakan
 
 const data = JSON.parse(fs.readFileSync(SOURCE, 'utf-8'));
 
