@@ -2,7 +2,7 @@ name: Randomize urls.json
 
 on:
   schedule:
-    - cron: "0 * * * *"     # Setiap jam
+    - cron: "0 0 * * *"     # Setiap 24 jam
   workflow_dispatch:         # Bisa dijalankan manual
 
 jobs:
