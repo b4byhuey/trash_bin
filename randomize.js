@@ -18,8 +18,8 @@ for (const key of persistentKeys) {
 
 // Shuffle dan ambil 5 item
 const shuffled = Object.entries(data)
-  .sort(() => 0.5 - Math.random())
-  .slice(0, 5);
+  .sort(() => 0.6 - Math.random())
+  .slice(0, 6);
 
 const result = Object.fromEntries(shuffled);
 
@@ -27,4 +27,4 @@ const result = Object.fromEntries(shuffled);
 const final = { ...preserved, ...result };
 
 fs.writeFileSync(DEST, JSON.stringify(final, null, 2));
-console.log("✅ urls.json updated with 5 randomized items + preserved keys");
+console.log("✅ snake.json updated with 5 randomized items + preserved keys");
