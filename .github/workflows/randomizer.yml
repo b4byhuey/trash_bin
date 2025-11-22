@@ -25,6 +25,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add urls.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-randomize urls.json [bot]"
+          git add snake.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-randomize snake.json [bot]"
           git push
