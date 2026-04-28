@@ -29,7 +29,7 @@
   "netserver": "https://net52.cc",
   "rivestream": "https://rivestream.org",
   "fourkhd": "https://4khdhub.click",
-  "xprime": "https://xprime.today",
+  "xpass": "https://play.xpass.top",
   "vidzee": "https://player.vidzee.wtf",
   "soaper": "https://soaper.live",
   "dahmer": "https://a.111477.xyz",
@@ -64,5 +64,8 @@
   "embedlink": "https://embedmaster.link",
   "bidsrc": "https://bidsrc.pro",
   "vadapav": "https://vadapav.mov",
-  "levidia": "https://www.levidia.ch"
+  "levidia": "https://www.levidia.ch",
+  "vidstack": "https://api.smashystream.top/api/v1",
+  "vidstackbase": "https://smashyplayer.top",
+  "onetouch": "https://api3.devcorp.me"
 }
