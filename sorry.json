@@ -44,7 +44,7 @@
   "webStreamr": "https://webstreamr.hayd.uk/%7B%22multi%22%3A%22on%22%2C%22mediaFlowProxyUrl%22%3A%22%22%2C%22mediaFlowProxyPassword%22%3A%22%22%2C%22disableExtractor_youtube%22%3A%22on%22%7D",
   "morph": "https://tele.morphtv.club/api/search?",
   "nuvio": "https://nuviostreams.hayd.uk/cookie=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTgwNjE4NDUsIm5iZiI6MTc1ODA2MTg0NSwiZXhwIjoxNzg5MTY1ODY1LCJkYXRhIjp7InVpZCI6MTAxODgzMiwidG9rZW4iOiIxODQwODVmYWIwNzkzYTViNDVjMzM3YmE0Y2QzYTcxMyJ9fQ.6_3Com6o_8qWqBkZri9ZmKNVGXG-NH4QU7fhljgztgE/region=ID1/providers=showbox,vidzee,vidsrc,vixsrc,mp4hydra,uhdmovies,moviesmod,4khdhub",
-  "vidrock": "https://vidrock.net",
+  "vidrock": "https://vidrock.ru",
   "soapy": "https://soapy.to",
   "vidlink": "https://vidlink.pro",
   "mapple": "https://mapple.uk",
@@ -67,5 +67,5 @@
   "peachify": "https://peachify.top",
   "vidsync": "https://vidsync.xyz",
   "lordflix": "https://lordflix.org",
-  "lordfapi": "https://network.hasta-la-vista.site"
+  "lordfapi": "https://snowhouse.lordflix.club"
 }
